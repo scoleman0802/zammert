@@ -1,0 +1,8 @@
+echo "# zammert" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M aster
+git remote add origin https://github.com/scoleman0802/zammert.git
+git push -u origin aster
+                
